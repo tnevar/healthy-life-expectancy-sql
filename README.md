@@ -2,7 +2,7 @@ Healthy Life Expectancy vs Life Expectancy Analysis
 
 Project Overview
 This repository is part of an ongoing series exploring healthcare data through SQL.
-The goal is to analyze Life Expectancy (LE) and Healthy Life Expectancy (HALE) trends, starting with the United States and expanding globally over time. With the layering in of GDP data as well expected
+The goal is to analyze Life Expectancy (LE) and Healthy Life Expectancy (HALE) trends, starting with the United States and expanding globally over time. A plan to layer in of GDP data as well.
 
 Current Focus
 United States (2019)
