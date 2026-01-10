@@ -1,5 +1,5 @@
-"year","sex","remaining_life_expectancy_at_60","remaining_healthy_life_expectanct_at_60","unhealthy_years"
-2000,"Female","22.65","16.50","6.15"
-2019,"Female","24.41","17.31","7.10"
-2000,"Male","19.80","14.70","5.10"
-2019,"Male","21.99","15.82","6.17"
+Year ,Remaining Lifespan at 60 ,Remaining Healthspan at 60 ,unhealthy_years
+2000,22.65,16.5,6.15
+2000,19.8,14.7,5.1
+2019,24.41,17.31,7.1
+2019,21.99,15.82,6.17
